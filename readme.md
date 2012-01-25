@@ -1,10 +1,5 @@
 # Development
-	
-	. Requirements
 
-		coffeescript
+# Requirements
 
-	. Compiling
-		
-		cake buil
-
+# Usage
